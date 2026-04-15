@@ -13,22 +13,6 @@ Coming from a background in **Real Estate and Property Management**, I bring a s
 💼 Open to **Full Stack Developer** opportunities
 🌱 Currently learning **System Design**, **Microservices Architecture**, and **AI/ML Integration**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilipOndieki\&show_icons=true\&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilipOndieki\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipOndieki\&layout=compact\&theme=radical)
-
-[![Philip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhilipOndieki\&theme=react-dark)](https://github.com/PhilipOndieki)
-
-![Snake animation](https://github.com/PhilipOndieki/PhilipOndieki/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ## Featured Projects
 
 ### MkulimaSharp
@@ -65,3 +49,20 @@ Maternal health focused platform created during GeGIS Hackathon, where we secure
 
 **Tech Stack**: Streamlit • Python • Data Visualization
 🔗 [https://mamashield.streamlit.app/](https://mamashield.streamlit.app/)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilipOndieki\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilipOndieki\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipOndieki\&layout=compact\&theme=radical)
+
+[![Philip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PhilipOndieki\&theme=react-dark)](https://github.com/PhilipOndieki)
+
+![Snake animation](https://github.com/PhilipOndieki/PhilipOndieki/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
