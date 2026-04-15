@@ -19,35 +19,30 @@ Coming from a background in **Real Estate and Property Management**, I bring a s
 
 Smart agriculture platform designed to support farmers with digital tools and better market access.
 
-**Tech Stack**: MERN Stack • Tailwind CSS • APIs
 🔗 [https://www.mkulimasharp.com/](https://www.mkulimasharp.com/)
 
 ### DualScope Engineering
 
 Professional engineering and construction company website with modern branding and service showcase.
 
-**Tech Stack**: React • Tailwind CSS • Responsive Design
 🔗 [https://dualscopeengineering.com/](https://dualscopeengineering.com/)
 
 ### Nairobi Alert
 
 Community safety and emergency response platform built during Momentum Hackathon, where we secured **1st place**.
 
-**Tech Stack**: MERN Stack • Maps • Notifications • Real Time Features
 🔗 [https://nairobialert2.vercel.app/](https://nairobialert2.vercel.app/)
 
 ### EveShield
 
 Safety and protection platform developed during PowerHacks Hackathon, where we secured **1st place**.
 
-**Tech Stack**: React • Node.js • Security Features
 🔗 [https://eveshield.vercel.app/](https://eveshield.vercel.app/)
 
 ### MamaShield
 
 Maternal health focused platform created during GeGIS Hackathon, where we secured **1st place**.
 
-**Tech Stack**: Streamlit • Python • Data Visualization
 🔗 [https://mamashield.streamlit.app/](https://mamashield.streamlit.app/)
 
 ## 📊 GitHub Stats
