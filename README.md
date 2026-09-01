@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** focused on building practical digital products that solve real problems. I work across the **MERN stack** and enjoy creating scalable web applications with clean user experiences, secure backend systems, and strong performance.
+I'm a **Full Stack Developer** focused on building practical digital products that solve real problems. I work across the **MERN stack**, Nextjs,Typescript and enjoy creating scalable web applications with clean user experiences, secure backend systems, and strong performance.
 
 My experience spans full stack development, real time applications, payment integrations, and user centered platforms. I have also competed in multiple hackathons, where I built impactful products that earned **1st place recognition**.
 
@@ -8,12 +8,19 @@ I am also an **alumni of the Power Learn Project Advanced Software Development P
 
 Coming from a background in **Real Estate and Property Management**, I bring a strong mix of technical execution, business awareness, and problem solving to every project.
 
+🎓 **Kenyatta university Alumni**
 🎓 **Power Learn Project Alumni**
 📍 Based in **Nairobi, Kenya**
 💼 Open to **Full Stack Developer** opportunities
 🌱 Currently learning **System Design**, **Microservices Architecture**, and **AI/ML Integration**
 
 ## Featured Projects
+### Insight afriresearch
+
+Consultancy app, research and training. 
+
+🔗 [https://www.insightafriresearch.com/](https://www.insightafriresearch.com/)
+
 
 ### MkulimaSharp
 
